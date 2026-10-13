@@ -1,0 +1,24 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>a</mi>
+    <mo>,</mo>
+    <mn>5</mn><mi>x</mi>
+    <mo>,</mo>
+    <msqrt>
+      <mn>4</mn><mi>a</mi>
+    </msqrt>
+    <mo>,</mo>
+    <mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><mi>c</mi>
+    <mo>,</mo>
+    <mfrac>
+      <mrow>
+        <mo>(</mo>
+        <mn>5</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi>
+        <mo>)</mo><mi>a</mi>
+      </mrow>
+      <msup>
+        <mi>x</mi><mn>2</mn>
+      </msup>
+    </mfrac>
+  </mrow>
+</math>

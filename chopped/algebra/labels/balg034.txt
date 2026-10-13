@@ -1,0 +1,14 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mo>(</mo>
+    <mi>m</mi>
+    <mo>−</mo>
+    <mn>8</mn>
+    <mo>)</mo>
+    <mo>(</mo>
+    <mi>m</mi>
+    <mo>+</mo>
+    <mn>12</mn>
+    <mo>)</mo>
+  </mrow>
+</math>

@@ -1,0 +1,22 @@
+<math display="block">
+        <mrow intent="logarithm($var)">
+            <mo>log</mo>
+            <mo>(</mo>
+            <mrow arg="var" intent="times($a, $b)">
+                <mi arg="a">A</mi>
+                <mo>&#x2A2F;</mo>
+                <mi arg="b">B</mi>
+            </mrow>
+            <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow intent="logarithm($var)">
+            <mo>log</mo>
+            <mi arg="var">A</mi>
+        </mrow>
+        <mo>+</mo>
+        <mrow intent="logarithm($var)">
+            <mo>log</mo>
+            <mi arg="var">B</mi>
+        </mrow>
+</math>  

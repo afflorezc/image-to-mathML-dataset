@@ -2,7 +2,7 @@
   <mrow>
     <mn>19</mn>
     <mi>m</mi>
-    <mo>−</mo>
+    <mo>-</mo>
     <mn>10</mn>
     <mi>m</mi>
     <mo>+</mo>

@@ -1,15 +1,14 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
     <mfrac>
       <mrow>
         <mn>4</mn>
-        <msup>
-          <mi>a</mi>
-          <mn>2</mn>
+        <msup intent="power($base, $exp)">
+          <mi arg="base">a</mi>
+          <mn arg="exp">2</mn>
         </msup>
-        <msup>
-          <mi>b</mi>
-          <mn>3</mn>
+        <msup intent="power($base, $exp)">
+          <mi arg="base">b</mi>
+          <mn arg="exp">3</mn>
         </msup>
       </mrow>
       <mrow>
@@ -22,36 +21,36 @@
     <mfrac>
       <mrow>
         <mn>4</mn>
-        <mo>×</mo>
-        <msup>
+        <mo>&#x00D7;</mo>
+        <msup intent="power($base, $exp)">
           <mrow>
             <mo>(</mo>
-            <mfrac>
+            <mfrac arg="base">
               <mn>1</mn>
               <mn>2</mn>
             </mfrac>
             <mo>)</mo>
           </mrow>
-          <mn>2</mn>
+          <mn arg="exp">2</mn>
         </msup>
-        <mo>×</mo>
-        <msup>
+        <mo>&#x00D7;</mo>
+        <msup intent="power($base, $exp)">
           <mrow>
             <mo>(</mo>
-            <mfrac>
+            <mfrac arg="base">
               <mn>1</mn>
               <mn>3</mn>
             </mfrac>
             <mo>)</mo>
           </mrow>
-          <mn>3</mn>
+          <mn arg="exp">3</mn>
         </msup>
       </mrow>
       <mrow>
         <mn>5</mn>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mn>2</mn>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mn>3</mn>
       </mrow>
     </mfrac>
@@ -59,12 +58,12 @@
     <mfrac>
       <mrow>
         <mn>4</mn>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mfrac>
           <mn>1</mn>
           <mn>4</mn>
         </mfrac>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mfrac>
           <mn>1</mn>
           <mn>27</mn>
@@ -85,5 +84,4 @@
       <mn>1</mn>
       <mn>810</mn>
     </mfrac>
-  </mrow>
 </math>

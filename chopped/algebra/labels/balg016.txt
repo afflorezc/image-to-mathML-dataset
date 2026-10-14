@@ -1,5 +1,4 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
     <mi>x</mi>
     <mo>=</mo>
     <mo>-</mo>
@@ -11,9 +10,9 @@
     <msqrt>
       <mrow>
         <mfrac>
-          <msup>
-            <mi>m</mi>
-            <mn>2</mn>
+          <msup intent="power($base, $exp)">
+            <mi arg="base">m</mi>
+            <mn arg="exp">2</mn>
           </msup>
           <mn>4</mn>
         </mfrac>
@@ -21,5 +20,4 @@
         <mi>n</mi>
       </mrow>
     </msqrt>
-  </mrow>
 </math>

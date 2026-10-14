@@ -1,9 +1,9 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow>
-    <msup>
+    <msup intent="power($base, $exp)">
       <mrow>
         <mo>(</mo>
-        <msqrt>
+        <msqrt arg="base">
           <mrow>
             <mo>-</mo>
             <mn>1</mn>
@@ -11,7 +11,7 @@
         </msqrt>
         <mo>)</mo>
       </mrow>
-      <mn>1</mn>
+      <mn arg="exp">1</mn>
     </msup>
     <mo>=</mo>
     <msqrt>

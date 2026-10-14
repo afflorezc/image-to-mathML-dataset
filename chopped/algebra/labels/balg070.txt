@@ -3,7 +3,7 @@
     <msqrt><mi>a</mi></msqrt>
     <mo>+</mo>
     <msqrt><mi>b</mi></msqrt>
-    <mo>−</mo>
+    <mo>-</mo>
     <mn>2</mn><mi>c</mi>
     <mo>+</mo>
     <msqrt><mi>d</mi></msqrt>

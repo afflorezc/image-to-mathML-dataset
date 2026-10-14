@@ -1,45 +1,47 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
-    <mi>3</mi>
-    <mi>a</mi>
-    <mi>c</mi>
-    <msqrt>
+  <mrow intent="times($a, $b)">
+    <mrow arg="a">
+       <mi>3</mi>
+       <mi>a</mi>
+       <mi>c</mi>
+    </mrow>   
+    <msqrt arg="b">
       <mrow>
         <mn>2</mn>
         <mi>a</mi>
         <mi>b</mi>
       </mrow>
     </msqrt>
-    <mo>=</mo>
-    <mn>3</mn>
-    <mo>×</mo>
-    <mn>2</mn>
-    <mo>×</mo>
-    <mfrac>
+  </mrow>  
+  <mo>=</mo>
+  <mn>3</mn>
+  <mo>&#x00D7;</mo>
+  <mn>2</mn>
+  <mo>&#x00D7;</mo>
+  <mfrac>
       <mn>1</mn>
       <mn>3</mn>
-    </mfrac>
-    <mo>×</mo>
-    <msqrt>
+  </mfrac>
+  <mo>&#x00D7;</mo>
+  <msqrt>
       <mrow>
         <mn>2</mn>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mn>2</mn>
-        <mo>×</mo>
+        <mo>&#x00D7;</mo>
         <mn>9</mn>
       </mrow>
-    </msqrt>
-    <mo>=</mo>
-    <mn>2</mn>
-    <mo>×</mo>
-    <msqrt>
+  </msqrt>
+  <mo>=</mo>
+  <mn>2</mn>
+  <mo>&#x00D7;</mo>
+  <msqrt>
       <mn>36</mn>
-    </msqrt>
-    <mo>=</mo>
-    <mn>2</mn>
-    <mo>×</mo>
-    <mn>6</mn>
-    <mo>=</mo>
-    <mn>12</mn>
-  </mrow>
+  </msqrt>
+  <mo>=</mo>
+  <mn>2</mn>
+  <mo>&#x00D7;</mo>
+  <mn>6</mn>
+  <mo>=</mo>
+  <mn>12</mn>
 </math>

@@ -1,5 +1,4 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
     <mfrac>
       <mrow>
         <mi>x</mi>
@@ -27,5 +26,4 @@
       </mrow>
       <mn>5</mn>
     </mfrac>
-  </mrow>
 </math>

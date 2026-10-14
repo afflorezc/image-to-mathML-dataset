@@ -6,6 +6,6 @@
   <mo>=</mo>
   <mi>&#x03C0;</mi>
   <mo>=</mo>
-  <mn>3.14159</mn>
+  <mn intent=":decimal">3.14159</mn>
   <mo>&#x2026;</mo>
 </math>

@@ -7,7 +7,7 @@
     <mo>+</mo>
     <mi>b</mi>
     <mo>}</mo>
-    <mo>÷</mo>
+    <mo>&#x00F7;</mo>
     <mo>{</mo>
     <mi>c</mi>
     <mo>−</mo>

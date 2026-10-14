@@ -8,9 +8,9 @@
             <mrow intent="times($a, $b)">
                 <mi arg="a">i</mi>
                 <msup arg="b" intent="power($base, $exp)">
-                    <mrow>
+                    <mrow arg="base">
                         <mo>(</mo>
-                        <mrow arg="base">
+                        <mrow>
                             <mn>1</mn>
                             <mo>+</mo>
                             <mi>r</mi>

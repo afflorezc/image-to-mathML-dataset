@@ -1,5 +1,4 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
     <mfrac>
       <mrow><mn>3</mn><mi>x</mi></mrow>
       <mn>8</mn>
@@ -25,5 +24,4 @@
     <mfrac><mn>7</mn><mn>80</mn></mfrac>
     <mo>=</mo>
     <mn>0</mn>
-  </mrow>
 </math>

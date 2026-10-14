@@ -3,11 +3,11 @@
         <mo>=</mo>
         <mrow intent="times($a, $b)">
             <mi arg="a">i</mi>
-            <mrow arg="b" intent="plus($x, $y)">
+            <mrow arg="b">
                 <mo>(</mo>
-                <mn arg="x">1</mn>
+                <mn>1</mn>
                 <mo>+</mo>
-                <mi arg="y">r</mi>
+                <mi>r</mi>
                 <mo>)</mo>
             </mrow>       
         </mrow>
@@ -20,9 +20,9 @@
             <mi arg="a">i</mi>
             <mrow arg="b" intent="power($base, $exp)">
                 <msup>
-                    <mrow >
+                    <mrow arg="base">
                         <mo>(</mo>
-                        <mrow arg="base">
+                        <mrow>
                             <mn>1</mn>
                             <mo>+</mo>
                             <mi>r</mi>
@@ -43,9 +43,9 @@
             <mi arg="a">i</mi>
             <mrow arg="b" intent="power($base, $exp)">
                 <msup>
-                    <mrow >
+                    <mrow arg="base">
                         <mo>(</mo>
-                        <mrow arg="base">
+                        <mrow>
                             <mn>1</mn>
                             <mo>+</mo>
                             <mi>r</mi>

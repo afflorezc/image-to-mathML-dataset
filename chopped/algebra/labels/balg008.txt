@@ -11,7 +11,7 @@
         <mo>=</mo>
         <mrow intent="times($a, $b)">
             <mi arg="a">A</mi>
-            <mo>&#x2A2F;</mo>
+            <mo>&#x00D7;</mo>
             <mi arg="b">B</mi>
         </mrow>
 </math> 

@@ -1,4 +1,4 @@
-<math xmlns="http://www.w3.org/1998/Math/MathML" >
+<math xmlns="http://www.w3.org/1998/Math/MathML">
         <mo>=</mo>
         <mo>&#x00B1;</mo>
         <msqrt>

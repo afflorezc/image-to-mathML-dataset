@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mn>3</mn><mi>a</mi>
+    <mo>,</mo>
+    <mspace width="0.5em"/>
+    <mo>−</mo>
+    <mn>5</mn><mi>b</mi>
+    <mo>,</mo>
+    <mspace width="0.5em"/>
+    <mfrac>
+      <mrow>
+        <msup><mi>x</mi><mn>2</mn></msup>
+        <mi>y</mi>
+      </mrow>
+      <mrow>
+        <mn>4</mn>
+        <msup><mi>a</mi><mn>3</mn></msup>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>

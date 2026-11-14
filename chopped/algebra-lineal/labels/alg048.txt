@@ -1,4 +1,4 @@
-<math display="block">
+<math xmlns="http://www.w3.org/1998/Math/MathML">
 <mrow intent="set($members)">
     <mo>(</mo>
     <mrow arg="members">

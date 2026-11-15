@@ -124,7 +124,7 @@
             </munderover>
             <mrow intent="times($x, $y, $z)">
                 <msup arg="x" intent="power($base, $exp)">
-                    <mrow>
+                    <mrow arg="base">
                         <mo>(</mo>
                         <mrow arg="base">
                             <mo>-</mo>
@@ -132,7 +132,7 @@
                         </mrow>
                         <mo>)</mo>
                     </mrow>
-                    <mi>n</mi>
+                    <mi arg="exp">n</mi>
                 </msup>
                 <mfrac arg="y">
                     <mrow>

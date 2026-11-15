@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
     <mrow intent="$name($var)">
         <msub arg="name">
             <mi>&#x1D711;</mi>
@@ -15,7 +16,7 @@
     <mo>=</mo>
 
     <mfrac>
-        <mrow intent="sin($var)">
+        <mrow intent="sine($var)">
             <mi>sen</mi>
             <mrow arg="var" intent="times($a, $b)">
                 <mi arg="a">k</mi>
@@ -23,10 +24,11 @@
             </mrow>
         </mrow>
         <mrow>
-            <mo></mo>
+            <mo/>
             <msqrt>
                 <mn arg="b">&#x1D70B;</mn>
             </msqrt>
         </mrow>
     </mfrac>
+</mrow>
 </math>

@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
     <mn>3</mn><mi>a</mi>
     <mo>,</mo>
     <mspace width="0.5em"/>
@@ -25,4 +26,5 @@
         </msup>
       </mrow>
     </mfrac>
+</mrow>
 </math>

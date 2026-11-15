@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
         <mi>y</mi>
         <mo>=</mo>
         <mrow intent="$name($var)">
@@ -131,4 +132,5 @@
                 </mrow>
             </mrow>
         </mrow>
+</mrow>
 </math>

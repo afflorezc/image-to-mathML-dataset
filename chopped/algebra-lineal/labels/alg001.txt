@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
 	<mrow intent="inner-product($f, $g)">
 	    <mo>(</mo>
 	    <msub arg="f">
@@ -16,7 +17,7 @@
 	<mo>=</mo>
 
 	<mrow>
-	    <msubsup >
+	    <msubsup>
 		<mo>&#x222B;</mo>
 		<mn>-1</mn>
 		<mn>1</mn>
@@ -37,5 +38,6 @@
 		<mn>2</mn>
 		<mn>3</mn>
 	</mfrac>
+</mrow>
 
 </math>

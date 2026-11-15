@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
     <mn intent=":decimal">0.85</mn>
     <mi>m</mi>
     <mi>x</mi>
@@ -15,4 +16,5 @@
             <mi>y</mi>
         </mrow>
     </mrow>
+</mrow>
 </math>

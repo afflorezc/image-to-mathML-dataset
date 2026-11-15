@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
   <mrow intent="times($a, $b)">
     <mrow arg="a">
        <mi>3</mi>
@@ -15,33 +16,34 @@
   </mrow>  
   <mo>=</mo>
   <mn>3</mn>
-  <mo>&#x00D7;</mo>
+  <mo>&#xD7;</mo>
   <mn>2</mn>
-  <mo>&#x00D7;</mo>
+  <mo>&#xD7;</mo>
   <mfrac>
       <mn>1</mn>
       <mn>3</mn>
   </mfrac>
-  <mo>&#x00D7;</mo>
+  <mo>&#xD7;</mo>
   <msqrt>
       <mrow>
         <mn>2</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mn>2</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mn>9</mn>
       </mrow>
   </msqrt>
   <mo>=</mo>
   <mn>2</mn>
-  <mo>&#x00D7;</mo>
+  <mo>&#xD7;</mo>
   <msqrt>
       <mn>36</mn>
   </msqrt>
   <mo>=</mo>
   <mn>2</mn>
-  <mo>&#x00D7;</mo>
+  <mo>&#xD7;</mo>
   <mn>6</mn>
   <mo>=</mo>
   <mn>12</mn>
+</mrow>
 </math>

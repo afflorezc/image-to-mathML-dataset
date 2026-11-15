@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
     <mrow intent="$name($var)">
         <msub arg="name">
             <mi>&#x1D711;</mi>
@@ -14,8 +15,9 @@
     <mfrac>
         <mn>1</mn>
         <mrow>
-            <mo></mo>
+            <mo/>
             <msqrt><mn>2</mn></msqrt>
         </mrow>
     </mfrac>
+</mrow>
 </math>

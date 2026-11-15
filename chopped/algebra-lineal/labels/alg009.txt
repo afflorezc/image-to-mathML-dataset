@@ -1,5 +1,6 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-    <mrow intent="function ($var $name)">
+<mrow>
+    <mrow intent="$name($var)">
         <msub arg="name">
             <mi>y</mi>
             <mn>n</mn>
@@ -58,4 +59,5 @@
 	    </msup>
         </mrow>
     </mrow>
+</mrow>
 </math>

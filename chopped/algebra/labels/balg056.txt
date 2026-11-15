@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
     <mfrac>
       <mrow>
         <mn>4</mn>
@@ -21,7 +22,7 @@
     <mfrac>
       <mrow>
         <mn>4</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <msup intent="power($base, $exp)">
           <mrow>
             <mo>(</mo>
@@ -33,7 +34,7 @@
           </mrow>
           <mn arg="exp">2</mn>
         </msup>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <msup intent="power($base, $exp)">
           <mrow>
             <mo>(</mo>
@@ -48,9 +49,9 @@
       </mrow>
       <mrow>
         <mn>5</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mn>2</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mn>3</mn>
       </mrow>
     </mfrac>
@@ -58,12 +59,12 @@
     <mfrac>
       <mrow>
         <mn>4</mn>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mfrac>
           <mn>1</mn>
           <mn>4</mn>
         </mfrac>
-        <mo>&#x00D7;</mo>
+        <mo>&#xD7;</mo>
         <mfrac>
           <mn>1</mn>
           <mn>27</mn>
@@ -84,4 +85,5 @@
       <mn>1</mn>
       <mn>810</mn>
     </mfrac>
+</mrow>
 </math>

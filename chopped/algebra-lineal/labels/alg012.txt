@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
 <mtable columnalign="center" intent="list($e0, $e1, $e2, $e3, $e4, $e5)">
 <mtr>
     <mtd>
@@ -18,13 +19,13 @@
             <mfrac>
                 <mn>1</mn>
                 <mrow>
-                    <mo></mo>
+                    <mo/>
                     <msqrt><mn>2</mn></msqrt>
                 </mrow>
             </mfrac>
         </mrow>
         <mo>,</mo>
-        <mspace width="1em" />
+        <mspace width="1em"/>
         
 
         <mrow arg="e1">
@@ -52,7 +53,7 @@
             
         </mrow>
         <mo>,</mo>
-        <mspace width="1em" />
+        <mspace width="1em"/>
 
         <mrow arg="e2">
             <mrow intent="$name($var)">
@@ -94,7 +95,7 @@
             </mrow>
         </mrow>
         <mo>,</mo>
-        <mspace width="1em" />
+        <mspace width="1em"/>
 
         <mrow arg="e3">
             <mrow intent="$name($var)">
@@ -191,7 +192,7 @@
             </mrow>
         </mrow>
         <mo>,</mo>
-        <mspace width="1em" />
+        <mspace width="1em"/>
 
         <mrow arg="e5">
             <mrow intent="$name($var)">
@@ -246,4 +247,5 @@
     </mtd>
 </mtr>
 </mtable>
+</mrow>
 </math>

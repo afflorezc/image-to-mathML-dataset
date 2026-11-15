@@ -36,7 +36,7 @@
             <mi>&#x1D6FC;</mi>
             <mo>)</mo>
         </mrow>
-        <mrow arg="d" intent="gamma-function($var)">
+        <mrow arg="d" intent="gamma-function($v)">
             <mo>&#x1D6E4;</mo>
             <mo>(</mo>
             <mrow arg="v">

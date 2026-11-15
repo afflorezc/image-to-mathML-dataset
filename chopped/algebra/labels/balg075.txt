@@ -1,21 +1,18 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mrow>
-    <mi>a</mi>
-  </mrow>
+<mrow>
+  <mi>a</mi>
   <mo>,</mo>
-  <mspace width="0.5em" />
+  <mspace width="0.5em"/>
   <mrow>
     <mn>5</mn>
     <mi>x</mi>
   </mrow>
   <mo>,</mo>
-  <mrow>
-    <msqrt>
+  <msqrt>
       <mn>4</mn><mi>a</mi>
     </msqrt>
-  </mrow>
   <mo>,</mo>
-  <mspace width="0.5em" />
+  <mspace width="0.5em"/>
   <mrow>
     <mo>(</mo>
     <mi>a</mi>
@@ -25,9 +22,8 @@
     <mi>c</mi>
   </mrow>
   <mo>,</mo>
-  <mspace width="0.5em" />
-  <mrow>
-    <mfrac>
+  <mspace width="0.5em"/>
+  <mfrac>
       <mrow>
         <mo>(</mo>
         <mn>5</mn>
@@ -43,5 +39,5 @@
         <mn arg="exp">2</mn>
       </msup>
     </mfrac>
-  </mrow>
+</mrow>
 </math>

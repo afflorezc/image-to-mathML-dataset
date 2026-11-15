@@ -1,4 +1,5 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
 <mtable rowspacing="0.5em">
     <mtr>
         <mtd>
@@ -89,4 +90,5 @@
         </mtd>
     </mtr>
 </mtable>
+</mrow>
 </math>

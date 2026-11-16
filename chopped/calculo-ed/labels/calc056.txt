@@ -26,7 +26,7 @@
                 <mn arg="exp">&#xBD;</mn>
             </msup>
             <mrow arg="b" intent="sine($var)">
-                <mo>sen</mo>
+                <mi>sen</mi>
                 <mi arg="var">x</mi>
             </mrow>
     </mrow>
@@ -62,7 +62,7 @@
                 <mn arg="exp">&#xBD;</mn>
             </msup>
             <mrow arg="b" intent="cosine($var)">
-                <mo>cos</mo>
+                <mi>cos</mi>
                 <mi arg="var">x</mi>
             </mrow>
     </mrow>

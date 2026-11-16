@@ -21,7 +21,7 @@
             <mo>)</mo>
         </mrow>
         <mrow arg="b" intent="natural-logarithm($var)">
-            <mo>log</mo>
+            <mi>log</mi>
             <mi arg="var">x</mi>
         </mrow>
     </mrow>
@@ -120,7 +120,7 @@
                     <mo>=</mo>
                     <mn>0</mn>
                 </mrow>
-                <mn>&#x221E;</mn>
+                <mi>&#x221E;</mi>
             </munderover>
             <mrow intent="times($x, $y, $z)">
                 <msup arg="x" intent="power($base, $exp)">

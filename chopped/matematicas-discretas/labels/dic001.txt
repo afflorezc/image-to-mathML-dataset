@@ -21,7 +21,7 @@
                     <mo>(</mo>
                     <mi>n</mi>
                     <mo>+</mo>
-                    <mi>1</mi>
+                    <mn>1</mn>
                     <mo>)</mo>
                 </mrow>
                 <mn arg="exp">2</mn>

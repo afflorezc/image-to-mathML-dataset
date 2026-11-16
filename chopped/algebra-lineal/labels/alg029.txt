@@ -8,7 +8,7 @@
             <mrow intent="times($a, $b)">
                 <mfrac arg="a">
                     <mn>1</mn>
-                    <mn>&#x1d70b;</mn>
+                    <mi>&#x1d70b;</mi>
                 </mfrac>
                 <mrow arg="b">
                     <msubsup>
@@ -16,7 +16,7 @@
                         <mn>0</mn>
                         <mrow>
                             <mn>2</mn>
-                            <mn>&#x1d70b;</mn>
+                            <mi>&#x1d70b;</mi>
                         </mrow>
                     </msubsup>
                     <mrow intent="times($x, $y)">
@@ -27,7 +27,7 @@
                             <mo>)</mo>
                         </mrow>
                         <mrow arg="y" intent="cosine($var)">
-                            <mo>cos</mo>
+                            <mi>cos</mi>
                             <mrow arg="var">
                                 <mi>k</mi>
                                 <mi>x</mi>
@@ -52,7 +52,7 @@
             <mrow intent="times($a, $b)">
                 <mfrac arg="a">
                     <mn>1</mn>
-                    <mn>&#x1d70b;</mn>
+                    <mi>&#x1d70b;</mi>
                 </mfrac>
                 <mrow arg="b">
                     <msubsup>
@@ -60,7 +60,7 @@
                         <mn>0</mn>
                         <mrow>
                             <mn>2</mn>
-                            <mn>&#x1d70b;</mn>
+                            <mi>&#x1d70b;</mi>
                         </mrow>
                     </msubsup>
                     <mrow intent="times($x, $y)">
@@ -71,7 +71,7 @@
                             <mo>)</mo>
                         </mrow>
                         <mrow arg="y" intent="sine($var)">
-                            <mo>sen</mo>
+                            <mi>sen</mi>
                             <mrow arg="var">
                                 <mi>k</mi>
                                 <mi>x</mi>

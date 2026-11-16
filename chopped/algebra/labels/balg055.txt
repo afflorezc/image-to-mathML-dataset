@@ -2,7 +2,7 @@
 <mrow>
   <mrow intent="times($a, $b)">
     <mrow arg="a">
-       <mi>3</mi>
+       <mn>3</mn>
        <mi>a</mi>
        <mi>c</mi>
     </mrow>   

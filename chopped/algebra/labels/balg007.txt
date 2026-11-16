@@ -1,7 +1,7 @@
 <math xmlns="http://www.w3.org/1998/Math/MathML">
 <mrow>
         <mrow intent="logarithm($var)">
-            <mo>log</mo>
+            <mi>log</mi>
             <mrow arg="var">
                 <mo>(</mo>
 	        <mrow intent="times($a, $b)">
@@ -14,12 +14,12 @@
         </mrow>
         <mo>=</mo>
         <mrow intent="logarithm($var)">
-            <mo>log</mo>
+            <mi>log</mi>
             <mi arg="var">A</mi>
         </mrow>
         <mo>+</mo>
         <mrow intent="logarithm($var)">
-            <mo>log</mo>
+            <mi>log</mi>
             <mi arg="var">B</mi>
         </mrow>
 </mrow>

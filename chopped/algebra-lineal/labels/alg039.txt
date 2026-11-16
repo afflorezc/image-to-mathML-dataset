@@ -13,7 +13,7 @@
                 <mrow>
                     <mi>k</mi>
                     <mo>+</mo>
-                    <mn>r</mn>
+                    <mi>r</mi>
                 </mrow>
             </munderover>
             <mrow intent="times($a, $b)">

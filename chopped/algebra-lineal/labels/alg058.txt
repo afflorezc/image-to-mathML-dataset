@@ -4,7 +4,7 @@
     <mtr>
         <mtd>
             <mrow intent="determinant($mat)">
-                <mo>det</mo>
+                <mi>det</mi>
                 <mo>(</mo>
                 <mrow arg="mat">
                     <mrow intent="times($a, $b)">

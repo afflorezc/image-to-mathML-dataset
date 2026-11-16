@@ -37,8 +37,8 @@
                             <msub>
                                 <mi>a</mi>
                                 <mrow>
-                                    <mi>1</mi>
-                                    <mi>2</mi>
+                                    <mn>1</mn>
+                                    <mn>2</mn>
                                 </mrow>
                             </msub>
                         </mtd>
@@ -49,8 +49,8 @@
                             <msub>
                                 <mi>a</mi>
                                 <mrow>
-                                    <mi>2</mi>
-                                    <mi>1</mi>
+                                    <mn>2</mn>
+                                    <mn>1</mn>
                                 </mrow>
                             </msub>
                         </mtd>

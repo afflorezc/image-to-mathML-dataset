@@ -33,7 +33,7 @@
                     <mrow arg="exp">
                         <mi>t</mi>
                         <mo>-</mo>
-                        <mi>2</mi>
+                        <mn>2</mn>
                     </mrow>
                 </msup>
             </mrow>
@@ -56,7 +56,7 @@
                     <mrow arg="exp">
                         <mi>t</mi>
                         <mo>-</mo>
-                        <mi>1</mi>
+                        <mn>1</mn>
                     </mrow>
                 </msup>
             </mrow>

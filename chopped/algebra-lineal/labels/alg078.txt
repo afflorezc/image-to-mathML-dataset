@@ -25,7 +25,7 @@
                         <mtd>
                             <msup intent="power($base, $exp)">
                                 <mrow arg="base">
-                                    <mo>cos</mo>
+                                    <mi>cos</mi>
                                 </mrow>
                                 <mn arg="exp">2</mn>
                             </msup>
@@ -34,11 +34,11 @@
                         <mtd>
                             <mrow intent="times($a, $b)">
                                <mrow arg="a" intent="sine($var)">
-                                    <mo>sen</mo>
+                                    <mi>sen</mi>
                                     <mi arg="var">&#x1D703;</mi>
                                </mrow>
                                <mrow arg="b" intent="cosine($var)">
-                                    <mo>cos</mo>
+                                    <mi>cos</mi>
                                     <mi arg="var">&#x1D703;</mi>
                                </mrow>
                             </mrow>
@@ -48,11 +48,11 @@
                         <mtd>
                             <mrow intent="times($a, $b)">
                                <mrow arg="a" intent="sine($var)">
-                                    <mo>sen</mo>
+                                    <mi>sen</mi>
                                     <mi arg="var">&#x1D703;</mi>
                                </mrow>
                                <mrow arg="b" intent="cosine($var)">
-                                    <mo>cos</mo>
+                                    <mi>cos</mi>
                                     <mi arg="var">&#x1D703;</mi>
                                </mrow>
                             </mrow>
@@ -60,7 +60,7 @@
                         <mtd>
                             <msup intent="power($base, $exp)">
                                 <mrow arg="base">
-                                    <mo>sen</mo>
+                                    <mi>sen</mi>
                                 </mrow>
                                 <mn arg="exp">2</mn>
                             </msup>

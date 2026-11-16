@@ -3,7 +3,7 @@
     <mrow intent="$name($var)">
         <msub arg="name">
             <mi>y</mi>
-            <mn>n</mn>
+            <mi>n</mi>
         </msub>
         <mo>(</mo>
         <mi arg="var">t</mi>

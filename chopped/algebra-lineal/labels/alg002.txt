@@ -19,7 +19,7 @@
 	<mrow>
 	    <msubsup>
 		<mo>&#x222B;</mo>
-		<mn>-1</mn>
+		<mrow><mo>−</mo><mn>1</mn></mrow>
 		<mn>1</mn>
 	    </msubsup>
 	    <msup intent="power($base, $exp)">

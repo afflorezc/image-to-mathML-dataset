@@ -28,7 +28,7 @@
             <mo>)</mo>
         </mrow>
         <mrow arg="c" intent="natural-logarithm($var)">
-            <mo>log</mo>
+            <mi>log</mi>
             <mi arg="var">x</mi>
         </mrow>
     </mrow>

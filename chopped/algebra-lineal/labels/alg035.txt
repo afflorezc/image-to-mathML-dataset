@@ -9,7 +9,7 @@
                         <mrow>
                             <mi>k</mi>
                             <mo>+</mo>
-                            <mi>1</mi>
+                            <mn>1</mn>
                         </mrow>
                     </msub>
                 </mrow>

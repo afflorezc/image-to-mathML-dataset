@@ -19,7 +19,7 @@
                     <mn>0</mn>
                     <mrow>
                         <mn>2</mn>
-                        <mn>&#x1D70B;</mn>
+                        <mi>&#x1D70B;</mi>
                     </mrow>
                 </msubsup>
                 <mrow intent="times($a, $b)">

@@ -15,15 +15,12 @@
 
             <mfrac>
                 <mn>1</mn>
-                <mrow>
-                    <mo/>
-                    <msqrt>
+                <msqrt>
                         <mrow intent="times($a, $b)">
                             <mn arg="a">2</mn>
-                            <mn arg="b">&#x1D70B;</mn>
+                            <mi arg="b">&#x1D70B;</mi>
                         </mrow>
                     </msqrt>
-                </mrow>
             </mfrac>
         </mrow>
 
@@ -58,12 +55,9 @@
                         <mi arg="b">x</mi>
                     </mrow>
                 </mrow>
-                <mrow>
-                    <mo/>
-                    <msqrt>
-                        <mn arg="b">&#x1D70B;</mn>
+                <msqrt>
+                        <mi arg="b">&#x1D70B;</mi>
                     </msqrt>
-                </mrow>
             </mfrac>
         </mrow>
 
@@ -94,12 +88,9 @@
                         <mi arg="b">x</mi>
                     </mrow>
                 </mrow>
-                <mrow>
-                    <mo/>
-                    <msqrt>
-                        <mn arg="b">&#x1D70B;</mn>
+                <msqrt>
+                        <mi arg="b">&#x1D70B;</mi>
                     </msqrt>
-                </mrow>
             </mfrac>
         </mrow>
 

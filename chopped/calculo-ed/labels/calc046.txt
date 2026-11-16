@@ -18,7 +18,7 @@
                 <mo>=</mo>
                 <mn>0</mn>
             </mrow>
-            <mn>&#x221E;</mn>
+            <mi>&#x221E;</mi>
         </munderover>
         <mrow intent="times($x, $y)">
             <mfrac arg="x">
